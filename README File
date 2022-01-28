@@ -1,2 +1,29 @@
-# Sorting-Algorithms
-5 Types of sorting algorithms
+Sorting-Algorithms
+5 Types of sorting algorithms:-
+------------------------------------------------------------------------
+1. Quick Sort
+a) Choosing the pivot element from list or array.
+b) Positiong the pivot such that:
+-- On its left all the elements are smaller than it
+-- On its right all the elements are greater than it.
+c) Dividing the array in two parts with respect to the pivot.
+d) Sorting the two subarrays recursively.
+
+------------------------------------------------------------------------
+2. Bubble Sort#
+
+
+------------------------------------------------------------------------
+3. Merge Sort
+
+
+------------------------------------------------------------------------
+4. Insertion Sort
+
+
+------------------------------------------------------------------------
+5. Selection Sort
+
+
+------------------------------------------------------------------------
+
