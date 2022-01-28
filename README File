@@ -1,4 +1,5 @@
 Sorting-Algorithms
+EXPLANATION IRRESPECTIVE OF PROGRAMMIMG LANGUAGE USED.
 5 Types of sorting algorithms:-
 ------------------------------------------------------------------------------------------------------------
 1. Quick Sort
@@ -19,10 +20,9 @@ e) For sorting "n" number of elements, we have to do "n-1" number of paases.
 
 ------------------------------------------------------------------------------------------------------------
 3. Merge Sort
-a) 
-b) 
-c)  
-d) 
+a) First we need to divide the unsorted array untill it contains single element in the subarray.
+b) We compare each element of subarrays and group them in ascending or descending order. 
+c) Repeat above step untill both arrays are merged and sorted.
 
 ------------------------------------------------------------------------------------------------------------
 4. Insertion Sort
