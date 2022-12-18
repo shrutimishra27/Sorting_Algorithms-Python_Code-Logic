@@ -1,0 +1,4 @@
+3. Merge Sort
+a) First we need to divide the unsorted array untill it contains single element in the subarray.
+b) We compare each element of subarrays and group them in ascending or descending order. 
+c) Repeat above step untill both arrays are merged and sorted.

@@ -1,0 +1,7 @@
+1. Quick Sort
+a) Choosing the pivot element from list or array.
+b) Positiong the pivot such that:
+-- On its left all the elements are smaller than it
+-- On its right all the elements are greater than it.
+c) Dividing the array in two parts with respect to the pivot.
+d) Sorting the two subarrays recursively.

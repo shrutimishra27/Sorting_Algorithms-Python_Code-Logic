@@ -1,0 +1,8 @@
+5. Selection Sort
+a) Scan through unsorted array for the minimum element.
+b) Then swap it into the zeroth index of the array.
+c) For finding minimum element, either use min() or do the following:
+-- Consider the first element to be minimum.
+-- Compare it with the adjacent elements.
+-- If it is greater than other , swap the other element with the minimum element, else do nothing.
+d) Continue above procedure for subarray(excluding sorted part) to sort the array.

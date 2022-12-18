@@ -1,0 +1,9 @@
+4. Insertion Sort
+a) Includes Shifting of elements in an array. 
+b) For sorting "n" number of elements, we have to do "n-1" number of paases.
+c) First we consider first element to be sorted and rest part to be unsorted.
+d) Now we select first element of unsorted array and compare it with the sorted part(here element).
+e) If sorted part is greater than the element, we insert the element in correct index(shift it).
+f) If not, then nothing happens.
+h) Then take next element in unsorted part and compare it with sorted elements.
+i) Repeat step e) to h) to get the whole array sorted.
