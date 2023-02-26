@@ -2,6 +2,6 @@
 2. Bubble Sort
 a) Algorithm includes Comparing and Swapping pair of adjacent elements based on increasing order.
 b) At every pass, the largest element gets shifted to the right-most position.
-c) Next, we compare and swap all the elements except the largest element found at earlier pass(rigtht-most).
+c) Next, we compare and swap all the elements except the largest element found at earlier pass(right-most).
 d) Repeat the swap-compare until the array is sorted.
 e) For sorting "n" number of elements, we have to do "n-1" number of passes.
